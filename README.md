@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oshintha
+- 👋 Hi, I’m Oshintha
 - 👀 I’m interested in exploring new technologies and learning about artificial intelligence.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on projects related to web development.
