@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I'm Oshintha! </h1> 
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Oshintha! </h1> 
 <h4>About Me</h4>
 
 👀 I’m interested in exploring new technologies, learning about artificial intelligence, and diving into the world of web development.
