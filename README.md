@@ -1,4 +1,5 @@
-👋 Hi, I’m Oshintha!
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Oshintha! </h1> 
+<h4>About Me</h4>
 
 👀 I’m interested in exploring new technologies, learning about artificial intelligence, and diving into the world of web development.
 
@@ -14,8 +15,6 @@
 
 💬 Let's connect and build something amazing together! You can reach me via email at [oshinthasandaruwan@gmail.com](mailto:oshinthasandaruwan@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/oshintha-sandaruwan/).
 
-😄 Pronouns: He/His
-
 ⚡ Fun fact: I love to travel and explore different cultures!
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,7 +25,7 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
    <a href="https://www.w3schools.com/git/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oshintha&show_icons=true&locale=en&layout=compact" alt="oshintha" /></p>
+<p><img align="left" width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=oshintha&show_icons=true&locale=en&layout=compact" alt="oshintha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oshintha&show_icons=true&locale=en" alt="oshintha" /></p>
 
