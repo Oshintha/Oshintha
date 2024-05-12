@@ -9,10 +9,10 @@
 
 📚 My hobby journey includes:
 
-Mastering C programming to devise efficient algorithmic solutions.
-Experimenting with React, MongoDB, and Node.js to build dynamic web applications.
-Crafting visually appealing and responsive web layouts using HTML and CSS.
-It's thrilling to pursue these interests as a hobby, constantly learning and creating in the ever-evolving landscape of technology and web development!
+- Mastering C programming to devise efficient algorithmic solutions.
+- Experimenting with React, MongoDB, and Node.js to build dynamic web applications.
+- Crafting visually appealing and responsive web layouts using HTML and CSS.
+- It's thrilling to pursue these interests as a hobby, constantly learning and creating in the ever-evolving landscape of technology and web development!
 
 💬 Let's connect and build something amazing together! You can reach me via email at [oshinthasandaruwan@gmail.com](mailto:oshinthasandaruwan@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/oshintha-sandaruwan/).
 
